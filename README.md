@@ -9,6 +9,6 @@
 
 #### 1.Snake will start with a single square.
 #### 2.Move snake with UP-DOWN-LEFT-RIGHT towards the bobble to eat.
-#### 3.Eaten bubble will be added to the snake to increase its length.
+#### 3.Eating bubble will be added to the snake to increase its length.
 #### 4.The result of the game is displayed at the end of the game when you will  loose.
-#### 5.A track ofyour scores is maintained.
+#### 5.A track of your scores is maintained.
