@@ -13,4 +13,4 @@
 #### 4.The result of the game is displayed at the end of the game when you will  loose.
 #### 5.A track of your scores is maintained.
 
-##Fully responsive .exe of the game is avilable with this project.
+## Fully responsive .exe of the game is avilable with this project.
