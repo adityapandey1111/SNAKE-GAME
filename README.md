@@ -12,3 +12,5 @@
 #### 3.Eating bubble will be added to the snake to increase its length.
 #### 4.The result of the game is displayed at the end of the game when you will  loose.
 #### 5.A track of your scores is maintained.
+
+##.exe of the game is avilable with this project.
