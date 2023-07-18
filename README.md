@@ -14,3 +14,4 @@
 #### 5.A track of your scores is maintained.
 
 ## Fully responsive .exe of the game is avilable with this project.
+## To download and play game click [here](https://drive.google.com/uc?export=download&id=1VpNEpT-NV6bMVeNbslFDhG_H2s9dq_z0)
